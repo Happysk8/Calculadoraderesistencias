@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Calculadora de resistencias</string>
+    <string name="negro2">0</string>
+    <string name="negro3">x10^0</string>
+    <string name="negro1">0</string>
+    <string name="café2">1</string>
+    <string name="café4">±1%</string>
+    <string name="café3">x10^1</string>
+    <string name="rojo1">2</string>
+    <string name="rojo3">x10^2</string>
+    <string name="rojo4">±2%</string>
+    <string name="naranja1">3</string>
+    <string name="naranja3">x10^3</string>
+    <string name="amarillo1">4</string>
+    <string name="amarillo3">x10^4</string>
+    <string name="verde1">5</string>
+    <string name="verde3">x10^5</string>
+    <string name="verde4">±0.5%</string>
+    <string name="azul1">6</string>
+    <string name="azul3">x10^6</string>
+    <string name="azul4">±0.25%</string>
+    <string name="morado1">7</string>
+    <string name="violeta3">x10^7</string>
+    <string name="violeta4">±0.1%</string>
+    <string name="gris1">8</string>
+    <string name="gris3">x10^8</string>
+    <string name="gris4">±0.05%</string>
+    <string name="blanco1">9</string>
+    <string name="blanco3">x10^9</string>
+    <string name="dorado3">x10^-1</string>
+    <string name="dorado4">±5%</string>
+    <string name="plateado3">x10^-2</string>
+    <string name="plateado4">±10%</string>
+</resources>
